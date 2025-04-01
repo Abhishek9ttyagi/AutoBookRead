@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+PyPDF2
+pyttsx3
+python-dotenv
+google-generativeai
+gunicorn # For production deployment
